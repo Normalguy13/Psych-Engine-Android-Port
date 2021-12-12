@@ -1,0 +1,48 @@
+{
+	"storyName": "corruption",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"B side schizophrenia",
+			"mom",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Sansational",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Last Reel",
+			"monster",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "Week 1"
+}
